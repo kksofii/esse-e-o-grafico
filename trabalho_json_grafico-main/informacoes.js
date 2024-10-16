@@ -1,4 +1,4 @@
-const url = ''
+const url = 'https://raw.githubusercontent.com/kksofii/esse-e-o-grafico/refs/heads/main/trabalho_json_grafico-main/disciplina.json'
 
 
 async function vizualizarInformacoes() {
